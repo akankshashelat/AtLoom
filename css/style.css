@@ -477,7 +477,7 @@ sup.banner{
 }
 
 .intro-img{
-  /*margin-right: auto;
+/*  margin-right: auto;
   margin-left: auto;*/
   width: 80%;
   height: 55%;
@@ -495,7 +495,8 @@ sup.banner{
 .portfolio-filter li {
   font-size: 16px;
   display: inline-block;
-  margin-right: 30px;
+  margin-right: 15px;
+  margin-left: 15px;
   padding-bottom: 10px;
   color: #979797;
   cursor: pointer;
@@ -503,6 +504,10 @@ sup.banner{
 
 .portfolio-filter li.mixitup-control-active {
   color: #001418;
+}
+
+.mixitup-control-active {
+  color: #001418 !important;
 }
 
 .portfolios-area .gallery-block {
@@ -820,6 +825,16 @@ sup.banner{
     display: none;
   }
 
+  .porfolio-filter li{
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+
+  .portfolio-intro .intro-img {
+    margin-left: auto;
+    margin-right: auto;
+
+  }
   .middle-section{
     width: 100%;
     /*padding-left: 100px;*/
@@ -879,6 +894,17 @@ sup.banner{
   .home-2 .main-menu {
     top: 99px;
   }
+
+  .porfolio-filter li{
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+  .portfolio-intro .intro-img {
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
   .nav-switch {
     position: absolute;
     right: 25px;
