@@ -411,7 +411,7 @@ ol {
 --------------------------*/
 .middle-section {
   padding-bottom: 80px;
-  padding-left: 40px;
+  /*padding-left: 60px;*/
 
 }
 
@@ -786,11 +786,11 @@ sup.banner{
 
 .middle-section{
   width: 100%;
-  padding-left: 100px;
+  /*padding-left: 100px;*/
 }
 
 .middle-section .column-space {
-  width: 30%;
+  /*width: 30%;*/
 }
 .contact-box {
   width: 80%;
@@ -822,7 +822,7 @@ sup.banner{
 
   .middle-section{
     width: 100%;
-    padding-left: 100px;
+    /*padding-left: 100px;*/
   }
 
   .middle-section .column-space {
@@ -836,6 +836,7 @@ sup.banner{
   .middle-section .box1 {
     padding-left: 20px;
     padding-right: 20px;
+
   }
 
   .middle-section .fa{
@@ -901,7 +902,8 @@ sup.banner{
   }
 
   .middle-section .column-space {
-    width: 50%;
+    width: 100%;
+    margin-left: 40%;
   }
   .contact-box {
     width: 80%;
@@ -909,8 +911,9 @@ sup.banner{
   }
 
   .middle-section .box1 {
-    padding-left: 20px;
-    padding-right: 20px;
+    /*padding-left: 20px;*/
+    /*padding-right: 20px;*/
+    padding-bottom: 20px;
   }
 
   .middle-section .fa{
