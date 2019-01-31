@@ -502,9 +502,9 @@ sup.banner{
   cursor: pointer;
 }
 
-.portfolio-filter li.mixitup-control-active {
+/*.portfolio-filter li.mixitup-control-active {
   color: #001418;
-}
+}*/
 
 .mixitup-control-active {
   color: #001418 !important;
