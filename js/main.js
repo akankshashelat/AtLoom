@@ -35,6 +35,19 @@ $(window).on('load', function() {
 		event.preventDefault();
 	});
 
+	/*------------------
+		Send Email
+	--------------------*/
+
+	function sendEmail() {
+    var link = "mailto:akankshashelat12@gmail.com"
+             + "?cc=aakashshelat@gmail.com"
+             + "&subject=Trial Ignore Email" + escape("This is my subject")
+             + "&body=" + escape(document.getElementById('myText').value)
+    ;
+
+    window.location.href = link;
+}
 
 
 	/*------------------
