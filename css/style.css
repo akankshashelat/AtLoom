@@ -496,7 +496,7 @@ sup.banner{
   position: center;
 }
 .portfolio-filter li {
-  font-size: 18px;
+  font-size: 28px;
   display: inline-block;
   margin-right: 15px;
   margin-left: 15px;
@@ -582,6 +582,11 @@ sup.banner{
 .portfolio-intro{
   display: block;
   /*padding: 0;*/
+}
+
+.portfolio-intro .heading {
+  font-size: 28px;
+  padding-bottom: 10px;
 }
 
 .img-popup-warp .mfp-content {
