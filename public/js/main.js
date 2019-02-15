@@ -101,7 +101,7 @@ $(window).on('load', function() {
 		e.preventDefault();
 	});
 
-
+ 
 if($().circleProgress){
 
 	//Set progress circle 1
