@@ -361,6 +361,11 @@ ol {
 .site-logo {
   font-size: 24px;
   padding-top: 20px;
+  color: #001418;
+}
+
+.site-logo:hover{
+  color: #979797;
 }
 
 .main-menu ul {
