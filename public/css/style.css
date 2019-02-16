@@ -161,6 +161,7 @@ ol {
   background-color: #000;
   margin-right: 15px;
   z-index: 1;
+  cursor: pointer;
 }
 
 .site-btn.btn-fade {
