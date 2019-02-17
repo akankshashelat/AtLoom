@@ -643,13 +643,14 @@ sup.banner{
     About Page
 --------------------------*/
 .pic-frame {
-  position: relative;
+  /*position: relative;
   padding-left: 25px;
   padding-bottom: 25px;
-  display: inline-block;
+  display: inline-block;*/
+  border: 5px solid black;
 }
 
-.pic-frame:after {
+/*.pic-frame:after {
   position: absolute;
   content: "";
   width: calc(100% - 25px);
@@ -658,7 +659,7 @@ sup.banner{
   left: 0;
   border: 2px solid #000;
   z-index: 1;
-}
+}*/
 
 .milestone {
   margin-top: 15px;
