@@ -429,6 +429,11 @@ li.dropdown {
   font-style: italic;
 }*/
 
+sup.banner{
+  color: red;
+  font-style: italic;
+}
+
 .dropdown:hover .dropdown-content {
   display: block;
 }
